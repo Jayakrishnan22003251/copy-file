@@ -21,6 +21,7 @@ Anaconda - Python 3.7
 
 #Developed by JAYAKRISHNAN L B L
 #Reg no : 22003251 
+```
 import sys
 count=0
 with open(sys.argv[1],'r') as f:
@@ -58,6 +59,7 @@ while True:
         break
     else:
         continue
+```
 
 ### OUTPUT:
 ![image](https://user-images.githubusercontent.com/120232371/215267380-7f578803-e708-4922-947a-c247c18103f7.png)
