@@ -18,10 +18,9 @@ Anaconda - Python 3.7
 ### Step 6: 
  Getting statement from the user to print or not want to print
 ## PROGRAM:
-
+```
 #Developed by JAYAKRISHNAN L B L
 #Reg no : 22003251 
-```
 import sys
 count=0
 with open(sys.argv[1],'r') as f:
